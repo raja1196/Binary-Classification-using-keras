@@ -32,7 +32,7 @@ To run the code, download the file, and open [jupyter notebook](https://jupyter.
 
 ## Authors
 
-* **Rajaram Sivaramakrishnan** - [rthiruv](https://github.ncsu.edu/rthiruv)
+* **Rajaram Sivaramakrishnan** - [raja1196](https://github.com/raja1196)
 
 ## License
 
